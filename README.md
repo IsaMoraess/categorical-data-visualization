@@ -53,7 +53,7 @@ No notebook você encontrará exemplos de:
 ## ▶️ Como executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/visualizacao-variaveis-categoricas.git
+   git clone https://github.com/IsaMoraess/categorical-data-visualization
    cd visualizacao-variaveis-categoricas
 
 Desenvolvido por Isabelly Moraes 💻🚀
